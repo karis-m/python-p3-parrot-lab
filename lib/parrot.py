@@ -1,4 +1,4 @@
-def parrot(strarg):
+def parrot(strarg = "Squawk"):
    print(strarg)
    return strarg
 
